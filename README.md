@@ -37,7 +37,15 @@ Aplicação móvel desenvolvida com React Native e Expo para gerenciamento de us
 
 ## 🚀 Como Compilar e Executar
 
-### 1. Instalar Dependências
+### 1. Clonar Repositório
+
+Abra o VScode e clone o repositório:
+
+```bash
+https://github.com/AndreSilva89/puc-firebase-crud.git
+```
+
+### 2. Instalar Dependências
 
 Abra o terminal na pasta do projeto e execute:
 
@@ -47,7 +55,7 @@ npm install
 
 Esse comando irá instalar todas as dependências necessárias do projeto.
 
-### 2. Iniciar o Servidor de Desenvolvimento
+### 3. Iniciar o Servidor de Desenvolvimento
 
 Após instalar as dependências, execute:
 
