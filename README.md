@@ -31,7 +31,7 @@ Aplicação móvel desenvolvida com React Native e Expo para gerenciamento de us
 
 ## 📋 Pré-requisitos
 
-- Node.js instalado
+- [Node.js](https://nodejs.org/) instalado na máquina 
 - npm (Node Package Manager)
 - Expo Go instalado no seu smartphone (Android ou iOS)
 
