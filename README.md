@@ -61,6 +61,8 @@ Após instalar as dependências, execute:
 
 ```bash
 npm start
+# ou inicie o servidor com tunnel (recomendado na rede da PUC)
+npx expo start --tunnel
 ```
 
 Isso iniciará o servidor local do Expo. Você verá um QR code no terminal.
